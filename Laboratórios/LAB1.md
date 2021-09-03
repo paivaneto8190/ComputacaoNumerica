@@ -13,7 +13,7 @@ Para o experimento, começamos gravando uma bola quicando e atingindo uma mala q
 3. Altura máxima; 
 4. Bola atingindo a mala.
 
-<p style="text-align: center;">
+<p>
 Após isso usamos o paint para pegar as medidas da altura da bola em pixeis usando o cabo de vassoura para converter as medidas de pixel para metro por meio de uma regra de três e aplicar nas equação do movimento uniformemente variado para acharmos as raízes correspondentes a aceleração da bola e sua velocidade incial usando algoritmos de métodos numéricos para aproximarmos cada vez mais do valor exato da raiz, visto que dado os procedimentos de coleta e equipamentos usados, tiveram imprecisões nas medidas.
 </p>
 
