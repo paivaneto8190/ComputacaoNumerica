@@ -153,6 +153,7 @@ ax.plot(x, y, '.', linewidth=5, markersize=10, color='r')
 ```
 
 ### Resultado final do experimento
-Gráfico da trajetória da bola feito a partir dos métodos numéricos citados acima
+Abaixo os gráficos da trajetória teórica da bola e trajetória real, respctivamente:
 
-![Trajetória teórica]()
+![Trajetória teórica](https://github.com/paivaneto8190/ComputacaoNumerica/blob/master/Laborat%C3%B3rios/lab1.1.png?raw=true)
+![Trajetória real e frames capturados](https://github.com/paivaneto8190/ComputacaoNumerica/blob/master/Laborat%C3%B3rios/lab1.2.png?raw=true)
