@@ -14,3 +14,7 @@ Para acessar o ambiente virtual na sua máquina, basta seguir as etapas abaixo:
 Dentro desta pasta terá um arquivo chamado "Teste.py" com o código para imprimir "Ola, mundo" e o valor de um seno aleatório usando uma das bibliotecas previamente instaladas no ambiente virtual, para executá-lo, basta digitar .\ no terminal e aperte a tecla TAB até aparecer o nome do seu arquivo, depois é só aperte Enter e o arquivo será executado.
 
 Caso a operação tenha sido feita corretamente uma janela se abrirá e o programa será executado.
+
+Abaixo tem uma foto da execução do programa:
+[teste python](https://github.com/paivaneto8190/ComputacaoNumerica/blob/master/Ambiente%20Virtual/teste_venv.png?raw=true)
+
