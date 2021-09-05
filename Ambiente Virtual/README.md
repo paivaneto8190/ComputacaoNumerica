@@ -1,4 +1,4 @@
-# O que é e como acessar o ambiente virtual na sua máquina
+# Como usar o ambiente virtual na sua máquina
 
 ## Para que serve?
 O ambiente virtual é um meio no qual você pode rodar os programas na sua máquina e poder instalar as bibliotecas e arquivos necessários sem ter conflitos com outros programas do seu computador.
