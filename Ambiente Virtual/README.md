@@ -16,5 +16,6 @@ Dentro desta pasta terá um arquivo chamado "Teste.py" com o código para imprim
 Caso a operação tenha sido feita corretamente uma janela se abrirá e o programa será executado.
 
 Abaixo tem uma foto da execução do programa:
+
 ![teste python](https://github.com/paivaneto8190/ComputacaoNumerica/blob/master/Ambiente%20Virtual/teste_venv.png?raw=true)
 
