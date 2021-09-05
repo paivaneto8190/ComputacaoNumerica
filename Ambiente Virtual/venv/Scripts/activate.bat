@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\Paiva Neto\Desktop\Ambiente Virtual\venv
+set VIRTUAL_ENV=C:\Users\Paiva Neto\Desktop\CN_Python\ComputacaoNumerica\Ambiente Virtual\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
