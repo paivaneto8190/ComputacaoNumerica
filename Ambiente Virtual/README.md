@@ -3,7 +3,7 @@
 ## Função
 O ambiente virtual é um meio no qual você pode rodar os programas na sua máquina e poder instalar as bibliotecas e arquivos necessários sem ter conflitos com outros programas do seu computador.
 
-## Modoo de uso
+## Modo de uso
 Para acessar o ambiente virtual na sua máquina, basta seguir as etapas abaixo:
 1. Clique com o botão direito sobre o ícone da pasta "venv" e selecione a opção "Abrir com o VS Code" (Caso queira abrir usando o CMD ou Powershell basta seguir o exemplo abaixo abrindo direto o programa esoclhido)
 2. Ao abrir o programa, digite o comando .\venv\Scripts\activate
